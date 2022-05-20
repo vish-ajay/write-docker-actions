@@ -16,3 +16,6 @@ jobs:
 
       - name: meow
         uses: ./.github/actions/cat-facts
+        
+     - name: meow
+        uses: ./.github/actions/cat-facts   
